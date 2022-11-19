@@ -109,6 +109,11 @@ header img {
 
 .menuGallery {
   padding-top: 30px;
+  text-align: center;
+}
+
+.menuGallery img {
+  width: 100%;
 }
 
 .menuGallery h6 {
@@ -116,10 +121,17 @@ header img {
   text-align: center;
   background-color: white;
   margin-top: 8px;
+  text-decoration: none;
 }
 
 .cocktailGallery {
   padding-top: 30px;
+  text-align: center;
+  
+}
+
+.cocktailGallery img {
+  width: 100%;
 }
 
 .cocktailGallery h6 {
@@ -127,6 +139,7 @@ header img {
   text-align: center;
   background-color: white;
   margin-top: 8px;
+  text-decoration: none;
 }
 
 .menu {
