@@ -1,0 +1,175 @@
+html {
+    background-color: #034f84 !important;
+    font-style: "Montserrat non-serif"; 
+}
+
+body {
+    background-color: #034f84 !important;
+    font-style: "Montserrat non-serif";
+}
+
+.navbar{
+    background-color: #142d4c;
+    color: honeydew;
+    text-align: left;
+}
+
+.heading {
+    text-align: center;
+    color: honeydew;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+image-menu {
+    url: "../public/images/food/omelette.jpeg"
+}
+.menu-title-text {
+    font-style: "Ubuntu, non-serif";
+    font-weight: 900;
+    font-size: 50px;
+    animation: texclip 1.5s linear infinite;
+    background: linear-gradient(to right, #ff6f3c 10%, #667292 50%, #45c983 60%);
+    background-clip: border-box;
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    color: #fff;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 10s linear infinite;
+    display: inline-block;
+    margin-top: 50px;
+  }
+
+.Welcome {
+    margin-bottom: 100px;
+    padding-top: 50px;
+}
+
+.menu {
+    text-align: center;
+    background-color: #142d4c;
+    border: solid white 4px;
+    
+}
+
+.menu h2 {
+    color: honeydew;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.starters {
+    background-color: #142d4c;
+    color: #ececec;
+}
+
+h3 {
+   color: lightblue; 
+}
+
+h6 {
+    color: lightgray;
+    text-decoration: underline;
+}
+
+.salads {
+    background-color: #142d4c;
+    color: #ececec;
+}
+
+.entrees {
+    background-color: #142d4c;
+    color: #ececec;
+}
+
+.desserts {
+    background-color: #142d4c;
+    color: #ececec;
+}
+
+div .starters {
+    background-color: #034f84;
+    border-top: solid white 4px;
+    border-bottom: solid white 4px;
+}
+
+div .salads {
+    border-bottom: solid white 4px;
+}
+
+div .entrees {
+    background-color: #034f84;
+    border-bottom: solid white 4px;
+}
+
+p {
+    font-style: italic;
+}
+
+.footer {
+    text-align: center;
+    color: darkgray;
+    background-color: black;
+}
+
+/* Cocktail Menu */
+
+.signature-cocktails {
+    background-color: #142d4c;
+    color: #ececec;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.craft-beers {
+    background-color: #142d4c;
+    color: #ececec;
+}
+
+.wines {
+    background-color: #142d4c;
+    color: #ececec;
+}
+
+.dessert-cocktails {
+    background-color: #142d4c;
+    color: #ececec;
+}
+
+div .signature-cocktails {
+    background-color: #034f84;
+    border-top: solid white 4px;
+    border-bottom: solid white 4px;
+    padding-bottom: 20px;
+}
+
+div .craft-beers {
+    border-bottom: solid white 4px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div .wines {
+    background-color: #034f84;
+    border-bottom: solid white 4px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div .dessert-cocktails {
+    background-color: #142d4c;
+    border-bottom: solid white 4px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
