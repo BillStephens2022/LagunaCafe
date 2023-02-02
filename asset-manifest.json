@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LagunaCafe/static/css/main.aa0fe4ce.css",
+    "main.js": "/LagunaCafe/static/js/main.795a50b4.js",
+    "index.html": "/LagunaCafe/index.html",
+    "main.aa0fe4ce.css.map": "/LagunaCafe/static/css/main.aa0fe4ce.css.map",
+    "main.795a50b4.js.map": "/LagunaCafe/static/js/main.795a50b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa0fe4ce.css",
+    "static/js/main.795a50b4.js"
+  ]
+}
