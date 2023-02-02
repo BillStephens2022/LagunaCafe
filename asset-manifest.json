@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/LagunaCafe/static/css/main.aa0fe4ce.css",
-    "main.js": "/LagunaCafe/static/js/main.795a50b4.js",
-    "index.html": "/LagunaCafe/index.html",
-    "main.aa0fe4ce.css.map": "/LagunaCafe/static/css/main.aa0fe4ce.css.map",
-    "main.795a50b4.js.map": "/LagunaCafe/static/js/main.795a50b4.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.aa0fe4ce.css",
-    "static/js/main.795a50b4.js"
-  ]
+  "main.css": "/LagunaCafe/static/css/main.e2bc07da.chunk.css",
+  "main.js": "/LagunaCafe/static/js/main.e8b0524b.chunk.js",
+  "main.js.map": "/LagunaCafe/static/js/main.e8b0524b.chunk.js.map",
+  "runtime~main.js": "/LagunaCafe/static/js/runtime~main.24cc7d63.js",
+  "runtime~main.js.map": "/LagunaCafe/static/js/runtime~main.24cc7d63.js.map",
+  "static/js/2.91b64c1d.chunk.js": "/LagunaCafe/static/js/2.91b64c1d.chunk.js",
+  "static/js/2.91b64c1d.chunk.js.map": "/LagunaCafe/static/js/2.91b64c1d.chunk.js.map",
+  "index.html": "/LagunaCafe/index.html",
+  "precache-manifest.5c2769af9ccd041503508a77660b0b65.js": "/LagunaCafe/precache-manifest.5c2769af9ccd041503508a77660b0b65.js",
+  "service-worker.js": "/LagunaCafe/service-worker.js",
+  "static/css/main.e2bc07da.chunk.css.map": "/LagunaCafe/static/css/main.e2bc07da.chunk.css.map"
 }
