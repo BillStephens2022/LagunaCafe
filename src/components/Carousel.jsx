@@ -1,6 +1,6 @@
 import React from 'react';
 import Carousel from 'better-react-carousel';
-import foodCards, { cocktailCards } from "./Cards";
+import foodCards, { cocktailCards } from "../data/Cards";
 
 
 const FoodGallery = () => {

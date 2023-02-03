@@ -13,6 +13,7 @@ function Map() {
             allowfullscreen="" 
             loading="lazy" 
             referrerpolicy="no-referrer-when-downgrade"
+            title="Toms River"
             ></iframe>
         </div>
     

@@ -1,8 +1,8 @@
 import React from "react";
-import "./menustyles.css";
-import Navbar from "./Navbar";
-import Footer from "./Footer";
-import { cocktailCards } from "./Cards";
+import "../styles/menustyles.css";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import { cocktailCards } from "../data/Cards";
 
 const CocktailMenu = () => {
     return (

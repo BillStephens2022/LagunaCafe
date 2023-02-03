@@ -1,7 +1,7 @@
 import React from "react";
-import "./menustyles.css";
-import Navbar from "./Navbar";
-import Footer from "./Footer";
+import "../styles/menustyles.css";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 
 const Menu = () => {

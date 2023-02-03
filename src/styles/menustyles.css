@@ -21,9 +21,10 @@ body {
     margin-top: 30px;
 }
 
-image-menu {
-    url: "../public/images/food/omelette.jpeg"
-}
+/* .image-menu {
+    background-image: url("../images/food/omelette.jpeg");
+} */
+
 .menu-title-text {
     font-style: "Ubuntu, non-serif";
     font-weight: 900;

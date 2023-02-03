@@ -30,7 +30,7 @@ header img {
 
 .MainPage {
   color: #FFF7E9;
-  background-image: url('./images/cabo.jpeg');
+  background-image: url('/images/cabo.jpeg');
   background-size: 1800px;
   text-align: center;
 }
@@ -143,7 +143,7 @@ header img {
 }
 
 .menu {
-  background-image: url("./images/omelette.jpeg");
+  /* background-image: url('/images/food/omelette.jpeg'); */
   background-size: 1800px;
   color: white;
 }

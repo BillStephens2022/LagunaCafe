@@ -8,7 +8,6 @@ function Navbar() {
                 <span class="navbar-toggler-icon"></span>
             </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-            <a class="navbar-brand" href=""></a>
             <ul class="navbar-nav ms-auto">
             <li class="nav-link">
                 <a class="nav-link" href="/">Home</a>

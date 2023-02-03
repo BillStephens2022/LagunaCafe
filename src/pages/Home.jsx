@@ -1,8 +1,8 @@
 import React from "react";
-import MainPage from "./MainPage";
-import FoodGallery, { CocktailGallery } from "./Carousel";
-import Footer from "./Footer";
-import Navbar from "./Navbar";
+import MainPage from "../components/MainPage";
+import FoodGallery, { CocktailGallery } from "../components/Carousel";
+import Footer from "../components/Footer";
+import Navbar from "../components/Navbar";
 
 const Home = () => {
     return (

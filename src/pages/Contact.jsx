@@ -1,8 +1,8 @@
 import React from "react";
-import "./contactstyles.css";
-import Navbar from "./Navbar";
-import Footer from "./Footer";
-import Map from "./Map";
+import "../styles/contactstyles.css";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import Map from "../components/Map";
 
 const Contact = () => {
     return (

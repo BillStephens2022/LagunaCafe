@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-import Home from "./Home";
-import Menu from "./Menu";
-import Contact from "./Contact";
-import CocktailMenu from "./CocktailMenu";
+import Home from "./pages/Home";
+import Menu from "./pages/Menu";
+import Contact from "./pages/Contact";
+import CocktailMenu from "./pages/CocktailMenu";
 
 function App() {
   return (
