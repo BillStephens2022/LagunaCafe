@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "00bff4cbed11c550e5dd",
-    "url": "/LagunaCafe/static/css/main.f2647dc3.chunk.css"
+    "revision": "dcea4bcdff3c0ada54ee",
+    "url": "/LagunaCafe/static/css/main.b00f3041.chunk.css"
   },
   {
-    "revision": "00bff4cbed11c550e5dd",
-    "url": "/LagunaCafe/static/js/main.a31dac18.chunk.js"
+    "revision": "dcea4bcdff3c0ada54ee",
+    "url": "/LagunaCafe/static/js/main.ce8fba63.chunk.js"
   },
   {
     "revision": "40c2b4878e2db4a2a5c5",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/LagunaCafe/static/js/2.35ddc2ad.chunk.js"
   },
   {
-    "revision": "7ead093ca6c81258c627d3b8caa5ffcf",
+    "revision": "00347e8cd1894ab415e42334d22d2d40",
     "url": "/LagunaCafe/index.html"
   }
 ];
