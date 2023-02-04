@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/LagunaCafe/precache-manifest.7752fd244cb917394bd414e9a12cdafb.js"
+  "/LagunaCafe/precache-manifest.f62b792aeee4042ebe533eb15fd4fcc6.js"
 );
 
 workbox.clientsClaim();
