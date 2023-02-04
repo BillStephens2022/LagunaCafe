@@ -31,7 +31,7 @@ header img {
 .MainPage {
   color: #FFF7E9;
   background-image: url('/images/cabo.jpeg');
-  background-size: 1800px;
+  background-size: 100vw 100vh;
   text-align: center;
 }
 
@@ -73,7 +73,7 @@ header img {
   font-size: 30px;
   text-align: center;
   color: lightgray;
-  padding-top: 100px;
+  padding-top: 25px;
   padding-bottom: 300px;
 }
 
