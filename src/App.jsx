@@ -8,7 +8,7 @@ import CocktailMenu from "./pages/CocktailMenu";
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Menu" element={<Menu />} />
