@@ -1,13 +1,13 @@
 {
-  "main.css": "/LagunaCafe/static/css/main.f3f431c3.chunk.css",
-  "main.js": "/LagunaCafe/static/js/main.0bf76093.chunk.js",
-  "main.js.map": "/LagunaCafe/static/js/main.0bf76093.chunk.js.map",
+  "main.css": "/LagunaCafe/static/css/main.1f5452fd.chunk.css",
+  "main.js": "/LagunaCafe/static/js/main.7776bd62.chunk.js",
+  "main.js.map": "/LagunaCafe/static/js/main.7776bd62.chunk.js.map",
   "runtime~main.js": "/LagunaCafe/static/js/runtime~main.24cc7d63.js",
   "runtime~main.js.map": "/LagunaCafe/static/js/runtime~main.24cc7d63.js.map",
   "static/js/2.35ddc2ad.chunk.js": "/LagunaCafe/static/js/2.35ddc2ad.chunk.js",
   "static/js/2.35ddc2ad.chunk.js.map": "/LagunaCafe/static/js/2.35ddc2ad.chunk.js.map",
   "index.html": "/LagunaCafe/index.html",
-  "precache-manifest.da8875dbce04505b2d911431561be1c0.js": "/LagunaCafe/precache-manifest.da8875dbce04505b2d911431561be1c0.js",
+  "precache-manifest.5b22b9d7ae515b3e3d32944a3eda8679.js": "/LagunaCafe/precache-manifest.5b22b9d7ae515b3e3d32944a3eda8679.js",
   "service-worker.js": "/LagunaCafe/service-worker.js",
-  "static/css/main.f3f431c3.chunk.css.map": "/LagunaCafe/static/css/main.f3f431c3.chunk.css.map"
+  "static/css/main.1f5452fd.chunk.css.map": "/LagunaCafe/static/css/main.1f5452fd.chunk.css.map"
 }
