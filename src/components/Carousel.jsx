@@ -5,7 +5,7 @@ import foodCards, { cocktailCards } from "../data/Cards";
 
 const FoodGallery = () => {
   return (
-    <Carousel cols={5} rows={1} gap={10} loop>
+    <Carousel cols={3} rows={1} gap={10} loop={true}>
       {foodCards.map((card, index) => (
         <Carousel.Item>
           <div key={index}>
@@ -21,7 +21,7 @@ const FoodGallery = () => {
 
 const CocktailGallery = () => {
   return (
-    <Carousel cols={5} rows={1} gap={10} loop>
+    <Carousel cols={3} rows={1} gap={10} loop={true}>
       {cocktailCards.map((card, index) => (
         <Carousel.Item>
           <div key={index}>
