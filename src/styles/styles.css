@@ -30,7 +30,7 @@ header img {
 
 .MainPage {
   color: #FFF7E9;
-  background-image: url(`${process.env.PUBLIC_URL}/images/cabo.jpeg`);
+  /* background-image: url(`${process.env.PUBLIC_URL}/images/cabo.jpeg`); */
   background-size: 100vw 100vh;
   text-align: center;
 }

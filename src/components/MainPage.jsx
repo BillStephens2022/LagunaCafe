@@ -4,7 +4,7 @@ import "../styles/styles.css";
 
 function MainPage() {
     return (
-    <div className="MainPage">   
+    <div className="MainPage" style={{ backgroundImage: `url(${"process.env.PUBLIC_URL/images/cabo.jpeg"})` }}>   
         <div className="Welcome">
             <img src={`${process.env.PUBLIC_URL}/images/food/sisig.jpeg`} alt="sizzling sisig"></img>
             <h1 className="title-text">Laguna Cafe</h1>
